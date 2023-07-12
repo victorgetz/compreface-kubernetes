@@ -1,5 +1,5 @@
 apiVersion: v2
-name: compreface-kubernetes
+name: compreface
 description: A Helm chart of compreface for Kubernetes
 
 # A chart can be either an 'application' or a 'library' chart.
